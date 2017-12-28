@@ -1,0 +1,22 @@
+url: ""
+baseurl: ""
+
+title: Community For Coders
+description: Community For Coders jest community stworzonym specjalnie dla Was - Programistów (tak, przez duże P). W tej wyjątkowej w swoim rodzaju platformie możesz zadać pytania na wszystkie nurtujące Cię pytania, nie koniecznie z programowania - a z całego zakresu IT (nawet o hardware!). Na co czekasz? Kusząca porcja wiedzy na Ciebie czeka. Nie zwlekaj i zostań członkiem naszej społeczności już dziś!
+author: Kacper Duras
+social:
+  name: Community For Coders
+  links:
+    - https://www.facebook.com/communityforcoders/
+image: /assets/image/logo.png
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+exclude:
+  - _config.yml
+  - Gemfile
+  - Gemfile.lock
