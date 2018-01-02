@@ -18,5 +18,9 @@ plugins:
 
 exclude:
   - _config.yml
+  - .gitignore
   - Gemfile
   - Gemfile.lock
+  - CNAME
+  - LICENSE
+  - README.ms
