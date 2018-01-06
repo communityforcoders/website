@@ -8,7 +8,7 @@ social:
   name: Community For Coders
   links:
     - https://www.facebook.com/communityforcoders/
-image: /assets/image/logo.png
+image: assets/image/logo.png
 
 markdown: kramdown
 plugins:
